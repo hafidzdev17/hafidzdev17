@@ -6,7 +6,7 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=hafidzdev17&color=872657&style=flat" alt="hafidzdev17" />
 </p>
-<p>I am a Full stack developer.</p>
+<p>I am a Full Stack learner.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="width:35%;">
 
 #### A little more about me
