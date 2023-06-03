@@ -21,9 +21,13 @@ const hash = {
 }
 ```
 
-<a href="https://github.com/hafidzdev17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafidzdev17&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
+  <a href="https://github.com/hafidzdev17?tab=repositories&q=&type=&language=&sort=stargazers">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hafidzdev17&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hafidzdev17&count_private=true" />
+          <img alt="Hafidz Masruri Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=hafidzdev17&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
+        </picture>
+      </a>
 <a href="https://github.com/hafidzdev17">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzdev17&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
