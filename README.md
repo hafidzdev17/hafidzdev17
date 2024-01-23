@@ -10,9 +10,5 @@
   </a>
 </p>
 
-<a href="https://github.com/hafidzdev17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafidzdev17&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/hafidzdev17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzdev17&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hafidzdev17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![github top lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafidzdev17&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
